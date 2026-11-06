@@ -2,7 +2,7 @@
 
 AI engineering student at HESTIM in Casablanca. I build multi-agent systems, RAG pipelines and data foundations that hold up in regulated settings: AML/KYC screening, fraud detection and recruitment automation.
 
-**Looking for a 6-month end-of-studies internship in 2027.**
+**Looking for a 6-month end-of-studies internship from late January 2027.**
 
 ### What I'm working on
 
